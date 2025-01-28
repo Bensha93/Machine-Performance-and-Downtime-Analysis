@@ -210,7 +210,4 @@ This report was prepared by **Adewole Oyediran** to support innovation in indust
   - `matplotlib` and `seaborn` for visualizations.
 - **Dataset**: `machine_downtime.csv`.
 
----
-```
 
-This README now includes the **Code Queries** section directly as part of the documentation. You can copy-paste it into your GitHub project! Let me know if you need additional adjustments.
