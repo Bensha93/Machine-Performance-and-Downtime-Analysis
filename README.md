@@ -147,7 +147,7 @@ sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', fmt=".2f")
 plt.title('Correlation Heatmap')
 plt.show()
 ```
-
+[Machine Correlation][def]
 ---
 
 ### **Scatter Plot for Specific Variables**
@@ -211,3 +211,6 @@ This report was prepared by **Adewole Oyediran** to support innovation in indust
 - **Dataset**: `machine_downtime.csv`.
 
 
+
+
+[def]: screenshot/Machine%20Correlation.png
