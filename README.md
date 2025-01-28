@@ -147,7 +147,7 @@ sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', fmt=".2f")
 plt.title('Correlation Heatmap')
 plt.show()
 ```
-[Machine Correlation][def]
+[Machine Correlation][screenshot/Machine Correlation.png]
 ---
 
 ### **Scatter Plot for Specific Variables**
