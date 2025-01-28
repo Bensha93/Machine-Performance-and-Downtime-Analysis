@@ -148,6 +148,9 @@ plt.title('Correlation Heatmap')
 plt.show()
 ```
 [Machine Correlation][screenshot/Machine Correlation.png]
+
+![Machine Correlation](https://github.com/user-attachments/assets/9271d5cd-9781-49e7-8602-7d38a99f68ab)
+
 ---
 
 ### **Scatter Plot for Specific Variables**
